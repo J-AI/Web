@@ -1,0 +1,30 @@
+table {
+	border: 2px solid red;
+	color: green;
+	text-align: center;
+	border-collapse: collapse;
+	width: 50%;
+}
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+th {
+	background-color: grey;
+}
+div {
+	background-color: teal;
+	width: 500px;
+	margin: 30px;
+	padding: 20px;
+	font-family: Arial;
+	font-size: 28px;
+	font-weight: bold;
+	border: 3px solid blue;
+}
+#top, #middle {
+	font-size: 40px;
+}
+.name {
+	font-weight: bold;
+}
