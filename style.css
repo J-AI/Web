@@ -12,7 +12,7 @@ th, td {
 th {
 	background-color: grey;
 }
-div {
+#jump {
 	background-color: teal;
 	width: 500px;
 	margin: 30px;
@@ -27,4 +27,7 @@ div {
 }
 .name {
 	font-weight: bold;
+}
+button:hover {
+	background-color: orange;
 }
